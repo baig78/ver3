@@ -1,0 +1,207 @@
+[
+  {
+    "catagory": "tech",
+    "image": "https://cinderellatech.net/assets/img/10ximages/1.png",
+    "heading": "Learn Python Coding std(6-10)",
+    "subheading": "Tutar ",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": 
+      {
+        "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+        "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+        "groupPrice": "₹ 750.00",
+        "1on1Price": "₹ 1650.00",
+        "noOfClasses":"15",
+        "perClass":"60 min",
+        "yearsOld":"15-18",
+        "instructor":{
+          "name":"Kushal Ghosh",
+          "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
+          "about":"We are all warriors fighting our own battle.",
+          "tags":["python","coding","technology"]
+        },
+        "requirements":["English","Internet","Zoom","Laptop"],
+        "courseStructure":[
+        {"conceptlearnt":"Introduction to Python"},
+        {"conceptlearnt":"My Report Card"}]
+      }
+    
+  },
+  {
+    "catagory": "tech",
+    "image": "https://cinderellatech.net/assets/img/10ximages/2.png",
+    "heading": "Coding Designing & Animation",
+    "subheading": "Subheading 1",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Kushal Ghosh",
+        "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["python","coding","technology"]
+      },
+      "requirements":["English","Internet","Zoom","Laptop"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  },
+  {
+    "catagory": "tech",
+    "image": "https://cinderellatech.net/assets/img/10ximages/3.png",
+    "heading": "UX/UI Designing",
+    "subheading": "Subheading 1",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Kushal Ghosh",
+        "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["python","coding","technology"]
+      },
+      "requirements":["English","Internet","Zoom","Laptop"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  },
+  {
+    "catagory": "Craft",
+    "image": "https://cinderellatech.net/assets/img/10ximages/5.png",
+    "heading": "Crafting",
+    "subheading": "Naresh M",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Naresh M",
+        "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["Sketching","Drawing","Craft", "Painting"]
+      },
+      "requirements":["Internet","Zoom"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  },
+  {
+    "catagory": "Craft",
+    "image": "https://cinderellatech.net/assets/img/10ximages/7.png",
+    "heading": "Drawing",
+    "subheading": "Naresh M",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Naresh M",
+        "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["Sketching","Drawing","Craft", "Painting"]
+      },
+      "requirements":["Internet","Zoom"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  },
+  {
+    "catagory": "Craft",
+    "image": "https://cinderellatech.net/assets/img/10ximages/4.png",
+    "heading": "Painting",
+    "subheading": "Naresh M",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Naresh M",
+        "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["Sketching","Drawing","Craft", "Painting"]
+      },
+      "requirements":["Internet","Zoom"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  },
+  {
+    "catagory": "Craft",
+    "image": "https://cinderellatech.net/assets/img/10ximages/6.png",
+    "heading": "Sketching",
+    "subheading": "Naresh M",
+    "rating": 4.5,
+    "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
+    "noOfClasses": "15 Classes",
+    "price": "₹ 750.00 / Class",
+    "popupData": {
+      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
+      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "groupPrice": "₹ 750.00",
+      "1on1Price": "₹ 1650.00",
+      "noOfClasses":"15",
+      "perClass":"60 min",
+      "yearsOld":"15-18",
+      "instructor":{
+        "name":"Naresh M",
+        "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
+        "about":"We are all warriors fighting our own battle.",
+        "tags":["Sketching","Drawing","Craft", "Painting"]
+      },
+      "requirements":["Internet","Zoom"],
+      "courseStructure":[
+      {"conceptlearnt":"Introduction to Python"},
+      {"conceptlearnt":"My Report Card"}]
+    }
+  }
+]
