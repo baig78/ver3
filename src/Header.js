@@ -14,9 +14,12 @@ export default function Header() {
                     <a href="/about">About</a>
                     <a href="/contact">Contact</a>
                 </nav> */}
-                <div className='register-link'>
-                    <a href="https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" >Register here</a>
-                </div>
+                <a className='register-link' href="https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" >
+                Register here
+                    {/* <div className='register-link'> Register here */}
+                        {/* <a href="https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" >Register here</a> */}
+                    {/* </div> */}
+                </a>
             </div>
         </>
 

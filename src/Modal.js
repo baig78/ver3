@@ -9,8 +9,8 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons'
 import { faGlobe } from '@fortawesome/free-solid-svg-icons'
 import { faLaptop } from '@fortawesome/free-solid-svg-icons'
 import { faPerson } from '@fortawesome/free-solid-svg-icons'
-// import { faCircleCheck } from '@fortawesome/free-solid-svg-icons'
 import { faCircle } from '@fortawesome/free-solid-svg-icons'
+import { faStar } from '@fortawesome/free-solid-svg-icons'
 
 const Modal = ({ isOpen, onClose, content }) => {
   function renderIcon(item) {
@@ -18,10 +18,10 @@ const Modal = ({ isOpen, onClose, content }) => {
       return <FontAwesomeIcon icon={faLaptop} />;
     }
     if (item === "Internet") {
-      return <FontAwesomeIcon icon={faGlobe} />;
+      return <FontAwesomeIcon icon={faStar} />;
     }
     if (item === "Zoom") {
-      return <FontAwesomeIcon icon={faGlobe} />;
+      return <FontAwesomeIcon icon={faLaptop} />;
     }
     if (item === "English") {
       return <FontAwesomeIcon icon={faGlobe} />;
@@ -46,16 +46,16 @@ const Modal = ({ isOpen, onClose, content }) => {
                 <p className='card-short-desc'>{content?.popupData.shortDesc}</p>
                 <div className='div-content'>
                   <div className='card-border course-fee'>
-                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUsers} /> Group</span><span>{content?.popupData.groupPrice}<i>/ Class</i></span></p>
-                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUser} /> 1on1</span><span>{content?.popupData["1on1Price"]}<i>/ Class</i></span></p>
-                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUser} /> Demo</span><span>Free</span></p>
+                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUsers} /> Group</span><span>{content?.popupData.groupPrice}<i>/ Class</i></span>  <span><a href='https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true' target="_blank" rel="noopener noreferrer">{content?.popupData.registerLink}</a></span></p>
+                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUser} /> 1on1</span><span>{content?.popupData["1on1Price"]}<i>/ Class</i></span>  <span><a href='https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true' target="_blank" rel="noopener noreferrer">{content?.popupData.registerLink}</a></span></p>
+                    <p><span><FontAwesomeIcon icon={faCircle} /></span><span><FontAwesomeIcon icon={faUser} /> Demo</span><span>Free</span>  <span><a href='https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true' target="_blank" rel="noopener noreferrer">{content?.popupData.registerLink}</a></span></p>
                   </div>
                   <h3>Instructor</h3>
                   <div className='card-border'>
                     <p><b>{content?.popupData.instructor.name}</b></p>
                     <p><img className='instructor-img' src={content?.popupData.instructor.image} alt='img' /></p>
                     <p>{content?.popupData.instructor.about}</p>
-                    <ul><li className='tags'><b># Tags :</b></li>{content?.popupData.instructor.tags.map(item => <li className='tags'># {item}</li>)}</ul>
+                    <ul><li className='tags'><b>Tags :</b></li>{content?.popupData.instructor.tags.map(item => <li className='tags'># {item}</li>)}</ul>
                   </div>
                   <h3>Requirements</h3>
                   <div className='card-border'>
@@ -63,8 +63,8 @@ const Modal = ({ isOpen, onClose, content }) => {
                     <ul>
                       {content?.popupData.requirements.map(item => (
                         <li key={item}>
-                          {renderIcon(item)}
-                          {item}
+                          {renderIcon(item)}&nbsp;
+                          {item} 
                         </li>
                       ))}
                     </ul>
@@ -82,7 +82,10 @@ const Modal = ({ isOpen, onClose, content }) => {
 
                   </div>
                 </div>
-                <button className="register-link">Register here</button>
+                {/* <button className="register-link">Register here</button> */}
+                <div className='register-link'>
+                    <a href="https://docs.google.com/forms/d/1eWSaQmFg99aFUVXFgu6fwWytLmNcWH6LLZJlla1jqCM/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" >Register here</a>
+                </div>
               </div>
               <div className='model-left model-left-img'>
                 <img src={content?.image} alt='img' />

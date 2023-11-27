@@ -3,7 +3,7 @@
     "catagory": "tech",
     "image": "https://cinderellatech.net/assets/img/10ximages/1.png",
     "heading": "Learn Python Coding std(6-10)",
-    "subheading": "Tutar ",
+    "subheading": "Naimath B ",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
     "noOfClasses": "15 Classes",
@@ -11,7 +11,7 @@
     "popupData": 
       {
         "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-        "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+        "registerLink": "Book Now",
         "groupPrice": "₹ 750.00",
         "1on1Price": "₹ 1650.00",
         "noOfClasses":"15",
@@ -20,7 +20,7 @@
         "instructor":{
           "name":"Kushal Ghosh",
           "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-          "about":"We are all warriors fighting our own battle.",
+          "about":".",
           "tags":["python","coding","technology"]
         },
         "requirements":["English","Internet","Zoom","Laptop"],
@@ -34,14 +34,14 @@
     "catagory": "tech",
     "image": "https://cinderellatech.net/assets/img/10ximages/2.png",
     "heading": "Coding Designing & Animation",
-    "subheading": "Subheading 1",
+    "subheading": "Sravan C",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "shortDesc": "This course is the perfect launchpad for your future career in the exciting world of web development",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -50,7 +50,7 @@
       "instructor":{
         "name":"Kushal Ghosh",
         "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["python","coding","technology"]
       },
       "requirements":["English","Internet","Zoom","Laptop"],
@@ -63,14 +63,14 @@
     "catagory": "tech",
     "image": "https://cinderellatech.net/assets/img/10ximages/3.png",
     "heading": "UX/UI Designing",
-    "subheading": "Subheading 1",
+    "subheading": "Naimath B",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
-    "noOfClasses": "15 Classes",
+    "noOfClasses": "20 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      
+      "shortDesc": "UX/UI Design course is all about designing mobile applications with proper conventions and research",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -79,7 +79,7 @@
       "instructor":{
         "name":"Kushal Ghosh",
         "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["python","coding","technology"]
       },
       "requirements":["English","Internet","Zoom","Laptop"],
@@ -98,8 +98,8 @@
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "shortDesc": "Creating handcrafted paper blooms provides an excellent alternative to maintaining the fresh flower aesthetic, offering a timeless and maintenance-free solution.",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -108,7 +108,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -121,14 +121,14 @@
     "catagory": "Craft",
     "image": "https://cinderellatech.net/assets/img/10ximages/7.png",
     "heading": "Drawing",
-    "subheading": "Naresh M",
+    "subheading": "Praveen S",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "shortDesc": "Capturing the essence of fresh blooms in your drawings is effortlessly achieved through the artful creation of handcrafted paper flowers, providing a perennially vibrant and maintenance-free alternative.",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -137,7 +137,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -150,14 +150,14 @@
     "catagory": "Craft",
     "image": "https://cinderellatech.net/assets/img/10ximages/4.png",
     "heading": "Painting",
-    "subheading": "Naresh M",
+    "subheading": "Praveen S",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "shortDesc": "In the realm of painting, masterfully crafting paper blooms offers a splendid avenue to replicate the beauty of fresh flowers without the constraints of upkeep, allowing your artwork to bloom eternally with vibrant, maintenance-free allure.",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -166,7 +166,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -185,8 +185,8 @@
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "What is Customised Python Coding course may focus on specific areas of Python programming",
-      "groupIcon": "https://www.oll.co/assets/images/group_people.png",
+      "shortDesc": "Infuse your sketches with perpetual floral elegance through the artful depiction of handcrafted paper blooms, eliminating the need for upkeep.",
+      "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
       "noOfClasses":"15",
@@ -195,7 +195,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":"We are all warriors fighting our own battle.",
+        "about":".",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
