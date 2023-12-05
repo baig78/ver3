@@ -18,9 +18,9 @@
         "perClass":"60 min",
         "yearsOld":"15-18",
         "instructor":{
-          "name":"Kushal Ghosh",
+          "name":"Naimath B",
           "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-          "about":".",
+          "about":"I am an experienced software and game developer with a five-year track record of teaching various technologies. My expertise lies in Python and C++, and I've successfully delivered numerous projects with thousands of users on my published apps. Additionally, my involvement in the graphics design industry has equipped me to share my knowledge in that domain as well.",
           "tags":["python","coding","technology"]
         },
         "requirements":["English","Internet","Zoom","Laptop"],
@@ -40,7 +40,7 @@
     "noOfClasses": "15 Classes",
     "price": "₹ 750.00 / Class",
     "popupData": {
-      "shortDesc": "This course is the perfect launchpad for your future career in the exciting world of web development",
+      "shortDesc": "I'm a seasoned software and game developer with five years of experience in teaching diverse technologies. My proficiency extends to Python and C++, where I've successfully executed numerous projects with thousands of users on my published applications. Furthermore, my involvement in the graphics design industry has allowed me to share my expertise in that field through teaching.",
       "registerLink": "Book Now",
       "groupPrice": "₹ 750.00",
       "1on1Price": "₹ 1650.00",
@@ -48,9 +48,9 @@
       "perClass":"60 min",
       "yearsOld":"15-18",
       "instructor":{
-        "name":"Kushal Ghosh",
+        "name":"Sravan C",
         "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "about":".",
+        "about":"I am an experienced software and game developer with a five-year track record of teaching various technologies. My expertise lies in Python and C++, and I've successfully delivered numerous projects with thousands of users on my published apps. Additionally, my involvement in the graphics design industry has equipped me to share my knowledge in that domain as well.",
         "tags":["python","coding","technology"]
       },
       "requirements":["English","Internet","Zoom","Laptop"],
@@ -63,7 +63,7 @@
     "catagory": "tech",
     "image": "https://cinderellatech.net/assets/img/10ximages/3.png",
     "heading": "UX/UI Designing",
-    "subheading": "Naimath B",
+    "subheading": "Praveen A",
     "rating": 4.5,
     "logo": "https://cinderellatech.net/assets/img/10ximages/10x.png",
     "noOfClasses": "20 Classes",
@@ -77,9 +77,9 @@
       "perClass":"60 min",
       "yearsOld":"15-18",
       "instructor":{
-        "name":"Kushal Ghosh",
+        "name":"Praveen A",
         "image":"https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "about":".",
+        "about":"I've served as a UX/UI Tutor for two years while concurrently working as a Freelance UX/UI Designer. I'm passionate about imparting design knowledge to creative individuals.",
         "tags":["python","coding","technology"]
       },
       "requirements":["English","Internet","Zoom","Laptop"],
@@ -108,7 +108,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":".",
+        "about":"As a crafting instructor, I inspire creativity through hands-on learning. With expertise in diverse techniques and materials, my classes offer a supportive environment for mastering intricate details and exploring artistic expression. Join me in unlocking your crafting potential, where each session is a journey of skill-building and creative fulfillment. Let's craft together!",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -135,9 +135,9 @@
       "perClass":"60 min",
       "yearsOld":"15-18",
       "instructor":{
-        "name":"Naresh M",
+        "name":"Praveen S",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":".",
+        "about":"As a drawing instructor, I guide aspiring artists on a journey of self-expression. Through techniques, strokes, and the interplay of light and shadow, I empower students to bring their imagination to life on the canvas. Join me in exploring the captivating world of drawing, where creativity knows no bounds.",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -164,9 +164,9 @@
       "perClass":"60 min",
       "yearsOld":"15-18",
       "instructor":{
-        "name":"Naresh M",
+        "name":"Praveen S",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":".",
+        "about":"As a painting instructor, I lead students through the vibrant realm of artistic expression. Guiding brushstrokes and color palettes, I empower individuals to transform canvases into visual narratives. Join me in the world of painting, where creativity blossoms, and every stroke is a brush with self-discovery and boundless imagination.",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],
@@ -195,7 +195,7 @@
       "instructor":{
         "name":"Naresh M",
         "image":"https://media.licdn.com/dms/image/C5103AQH55B-xCXkZwA/profile-displayphoto-shrink_800_800/0/1575715167293?e=1706140800&v=beta&t=8tDULmnCVxOFxWzGzrshE1e98v4UlcikTSrOdXBIC6A",
-        "about":".",
+        "about":"In my role as a sketching instructor, I facilitate a journey into the world of lines and forms. Guiding aspiring sketch artists, I encourage the exploration of diverse techniques to capture scenes, emotions, and ideas. Join me in honing the skill of sketching, where each stroke unveils the beauty of spontaneous creativity on paper.",
         "tags":["Sketching","Drawing","Craft", "Painting"]
       },
       "requirements":["Internet","Zoom"],

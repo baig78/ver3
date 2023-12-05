@@ -175,6 +175,11 @@ footer {
   padding-top: 20px;
 }
 
+.align-items-center a{
+  color: white;
+  text-decoration: none;
+}
+
 footer .wrapper {
   width: 80%;
   margin-left: 6%;

@@ -12,7 +12,7 @@ export default function Footer() {
                     <div className="row m-0 align-items-center">
                         <img src={footerLogo} alt="Logo" className="footer-logo" />
                         <img src={whatsappIcon} alt="Logo" className="whatsapp-logo" />
-                        <p>+91 93464 03176</p>
+                        <a href="https://wa.me/919346403176" target="_blank" rel="noopener noreferrer">  <p>+91 93464 03176</p></a>
                        
                     </div>
                 </div>
