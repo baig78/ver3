@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import Header from './Header';
 import Cards from './Cards';
@@ -7,11 +7,24 @@ import Modal from './Modal';
 import Footer from './Footer';
 import { Collapse } from 'antd';
 // const { Panel } = Collapse;
+import Loader from './Loader';
 
 
 
 
 function App() {
+
+ 
+
+  const [isLoading, setIsLoading] = useState(true);
+
+  useEffect(() => {
+    // Simulate loading for 3 seconds (you can replace this with your actual data fetching logic)
+    const loadingTimeout = setTimeout(() => {
+      setIsLoading(false);
+    }, 1000);
+    return () => clearTimeout(loadingTimeout);
+  }, []);
   const { Panel } = Collapse;
 
 
@@ -105,7 +118,7 @@ function App() {
         </Collapse>
       </div>
       <Modal isOpen={isModalOpen} onClose={closeModal} content={cardData} />
-
+      <Loader isLoading={isLoading} />
       <Footer />
     </div>
 

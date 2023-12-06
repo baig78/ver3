@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Card = ({ image, heading, subheading, rating, logo, noOfClasses, price, catagory, shortDesc, groupIcon }) => {
-
+ 
   return (
     <div className="card"  >
       <img src={image} alt="Card" className="card-image" />
